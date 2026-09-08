@@ -7,6 +7,7 @@ const PROJECTS = [
     role: 'Founder',
     period: 'Aug 2026 – Present',
     category: 'Founder',
+    image: 'assets/project/temankonten.png',
     summary: 'Founded an AI-assisted content studio for local brands — planning, producing, and publishing short-form content across Instagram, TikTok, and Facebook, with a production pipeline that cut batch turnaround by ~50%.',
     overview: [
       'Founded a content studio helping local brands plan, produce, and publish social media content across Instagram, TikTok, and Facebook.',
@@ -24,6 +25,7 @@ const PROJECTS = [
     role: 'Founder',
     period: 'Jun 2026 – Present',
     category: 'Founder',
+    image: 'assets/project/kelolaku.png',
     summary: 'Mobile-first business management app for small merchants — sales, stock, and cash flow in one place, with AI-powered daily summaries pushed to owners over WhatsApp. Shipped the MVP as a solo founder.',
     overview: [
       'Building Kelolaku, a mobile-first app that helps small merchants manage sales, stock, and cash flow in one place.',
